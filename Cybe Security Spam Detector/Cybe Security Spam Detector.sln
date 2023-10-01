@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cybe Security Spam Detector", "Cybe Security Spam Detector.csproj", "{F1029B22-764F-47AF-8714-15799EDC8331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1029B22-764F-47AF-8714-15799EDC8331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1029B22-764F-47AF-8714-15799EDC8331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1029B22-764F-47AF-8714-15799EDC8331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1029B22-764F-47AF-8714-15799EDC8331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B71EB3AD-7AB8-448D-8BFD-77302A743BC8}
+	EndGlobalSection
+EndGlobal

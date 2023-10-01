@@ -1,0 +1,13 @@
+C:\Users\Gilad Abutbul\Desktop\Cybe Security Spam Detector\bin\Debug\Cybe Security Spam Detector.dll
+C:\Users\Gilad Abutbul\Desktop\Cybe Security Spam Detector\bin\Debug\Cybe Security Spam Detector.pdb
+C:\Users\Gilad Abutbul\Desktop\Cybe Security Spam Detector\bin\Debug\Cybe Security Spam Detector.dll.manifest
+C:\Users\Gilad Abutbul\Desktop\Cybe Security Spam Detector\bin\Debug\Cybe Security Spam Detector.vsto
+C:\Users\Gilad Abutbul\Desktop\Cybe Security Spam Detector\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Gilad Abutbul\Desktop\Cybe Security Spam Detector\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\Gilad Abutbul\Desktop\Cybe Security Spam Detector\obj\Debug\Cybe Security Spam Detector.csproj.AssemblyReference.cache
+C:\Users\Gilad Abutbul\Desktop\Cybe Security Spam Detector\obj\Debug\Cybe_Security_Spam_Detector.Properties.Resources.resources
+C:\Users\Gilad Abutbul\Desktop\Cybe Security Spam Detector\obj\Debug\Cybe Security Spam Detector.csproj.GenerateResource.cache
+C:\Users\Gilad Abutbul\Desktop\Cybe Security Spam Detector\obj\Debug\Cybe Security Spam Detector.csproj.CoreCompileInputs.cache
+C:\Users\Gilad Abutbul\Desktop\Cybe Security Spam Detector\obj\Debug\Cybe Security Spam Detector.csproj.CopyComplete
+C:\Users\Gilad Abutbul\Desktop\Cybe Security Spam Detector\obj\Debug\Cybe Security Spam Detector.dll
+C:\Users\Gilad Abutbul\Desktop\Cybe Security Spam Detector\obj\Debug\Cybe Security Spam Detector.pdb
