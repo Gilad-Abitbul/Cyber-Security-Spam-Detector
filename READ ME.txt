@@ -1,26 +1,26 @@
-אנחנו חברי קבוצה 12:
-אוה-מריה קלסן
-מור מרקרבס
-גלעד אביטבול
+We are members of group 12:
+Gilad Abitbul
+Ova-Maria Klassen
+Mor Merkrebs
 
-נושא הפרזנטציה שנבחר:
-Phishing - המצגת צורפה לקובץ הZIP
+The chosen presentation topic:
+Phishing - the presentation was attached to the ZIP file
 
-נושא הפרויקט:
+The subject of the project:
 Spam Detector
-הפרויקט פותח בסביבת VSTO Outlook add in 
+The project was developed in the VSTO Outlook add in environment
 
-הקוד מאזין לתיבת המייל הנכנס וכאשר מתקבל מייל חדש:
-1. התוכן המייל מחולץ.
-2. מהתוכן מחולצים כל הפניות הURL שקיימים בו.
-3. כל URL נשלח לבדיקה באתר שמאמת את הלגיטמיות שלו מול 38 מקורות שונים.
-4. לכל URL מוצמד מספר שהוא בעצם מספר המקורות שזיהו אותו כאיום.
-5. לפני שהמייל עובד לתיבת הדואר הנכנס - הקוד מבצע עליו שינויים כגון:
-א. במידה ואותר לפחות URL שמקור מסויים זיהה אותו כאיום - לנושא ההודעה ישורשר "(Threat Detected!):" 
-ב. לכל הודעה ישורשר לסוף תוכן ההודעה את מסקנות הסריקה - כמה URL נבדקו וסטטוס הבדיקה שלהם.
-ג. לאחר כל זה - המייל שהתקבל יועבר לתיבת הדואר הנכנס ויהיה ניתן לצפיה ע"י המשתמש.
+The code listens to the inbox and when a new email is received:
+1. The email content is extracted.
+2. All the URL references that exist in it are extracted from the content.
+3. Each URL is sent for testing on a site that verifies its legitimacy against 38 different sources.
+4. A number is attached to each URL, which is actually the number of sources that identified it as a threat.
+5. Before the email goes to the inbox - the code makes changes to it such as:
+A. If at least a URL is located that a certain source has identified as a threat - the subject of the message will be prefixed with "(Threat Detected!):"
+B. For each message, the scan conclusions will be appended to the end of the message content - how many URLs were checked and their check status.
+third. After all this - the received email will be transferred to the inbox and will be viewable by the user.
 
-שינוים שבוצעו בהתאם להערות:
-1. אין פעולה שעל המשתמש לבצע - הקוד פועל אוטמטית ברגע שמתקבל מייל לתיבת הדואר הנכנס.
-2. אין שליחת סטטוס במייל חוזר - השינוים מתבצעים על המייל שהתקבל לפני שהוא מוצג למשתמש
-3. צבעים - מיילים שאותרו בהם איום יודגש בהתחלתם באדום: Threat Detected
+Changes made according to comments:
+1. There is no action the user must perform - the code runs automatically as soon as an email is received in the inbox.
+2. No status is sent in a return email - the changes are made on the received email before it is shown to the user
+3. Colors - emails in which a threat has been detected will be highlighted at the beginning in red: Threat Detected
