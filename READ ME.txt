@@ -4,7 +4,7 @@ Ova-Maria Klassen
 Mor Merkrebs
 
 The chosen presentation topic:
-Phishing - the presentation was attached to the ZIP file
+Phishing
 
 The subject of the project:
 Spam Detector
